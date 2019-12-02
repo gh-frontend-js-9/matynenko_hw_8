@@ -22,36 +22,44 @@ Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Sto
 
 2-Challenge:
 
-Task: 
+Task: https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK
+
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
 
 Loops:
 
 1-Challenge:
 
-Task:
-Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
+Task: https://edabit.com/challenge/Q4mYkd8nc8zdFBDE8
 
-2-Challenge:
-
-Task:
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
 
 Fonctional programming:
+
 1-Challenge:
-Task:
+
+Task: https://edabit.com/challenge/hzxN9bAebBPNqdQto
+
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
+
 2-Challenge:
-Task:
+
+Task: https://edabit.com/challenge/cada8J3AWGRhwQhkk
+
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
+
 Scope:
+
 1-Challenge:
-Task:
+
+Task: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
-2-Challenge:
-Task:
-Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
+
 Objects:
+
 1-Challenge:
-Task:
+
+Task: https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
+
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
