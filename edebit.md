@@ -11,7 +11,7 @@ Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience-Store
 Task: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
 
 Solution: https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience%20Store.paper?dl=0&rlkey=d3mvbem10nx1wod81z957osvs
-https://www.dropbox.com/scl/fi/5osx9au8xzw2qam1ijk90/Convenience-Store.paper?dl=0&rlkey=f39wce0om45g06l8vbflptib8
+
 Conditions:
 
 1-Challenge:
